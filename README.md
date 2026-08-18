@@ -23,5 +23,6 @@ Key Business Insights
 
 
 
-<img width="2582" height="1199" alt="image" src="https://github.com/user-attachments/assets/50c430d6-9a77-450e-90ec-ad27578ef31f" />
+<img width="2581" height="1200" alt="image" src="https://github.com/user-attachments/assets/4964dad3-13cb-454a-a7b7-0231e48b59e7" />
+
 
